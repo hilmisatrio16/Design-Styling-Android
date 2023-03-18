@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LatihanStyling</string>
+    <string name="txt_name">nama</string>
+    <string name="hint_et">fill??</string>
+    <string name="txt_home">Halo, Selamat datang</string>
+    <string name="register">Pendaftaran</string>
+    <string name="txt_username">identitas pengguna</string>
+    <string name="txt_password">kata sandi</string>
+    <string name="txt_login">masuk</string>
+    <string name="txt_signup">mendaftar</string>
+    <string name="txt_password_confirmation">ulangi kata sandi</string>
+</resources>

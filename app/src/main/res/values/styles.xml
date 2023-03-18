@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textjudul">
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">serif-monospace</item>
+    </style>
+
+    <style name="buttonstyling">
+        <item name="android:backgroundTint">#5090FF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="textstyling">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:color">@color/navy</item>
+    </style>
+
+    <style name="textHome">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/navy</item>
+    </style>
+
+    <style name="textEditText">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textColor">@color/navy</item>
+        <item name="android:color">@color/white</item>
+        <item name="android:textColorHint">#404875</item>
+    </style>
+</resources>

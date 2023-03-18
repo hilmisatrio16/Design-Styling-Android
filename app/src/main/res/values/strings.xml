@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LatihanStyling</string>
+    <string name="hint_et">fill??</string>
+    <string name="txt_name">name</string>
+    <string name="txt_home">Hello, Welcome</string>
+    <string name="register">Register</string>
+    <string name="txt_username">username</string>
+    <string name="txt_password">password</string>
+    <string name="txt_login">login</string>
+    <string name="txt_signup">signup</string>
+    <string name="txt_password_confirmation">Confirm password</string>
+</resources>
